@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "966137245946",
+    "firebase_url": "https://radtel-92653.firebaseio.com",
+    "project_id": "radtel-92653",
+    "storage_bucket": "radtel-92653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966137245946:android:8e9bacc6bbe7759b",
+        "android_client_info": {
+          "package_name": "com.valuecom.valuecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966137245946-k8ev29ih8votd4aan6pi3rkjmdrm06h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkGN5skdcHybU2IMOkWbcV7_8Y9Ux7ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966137245946:android:0ef4461d5895b8c5",
+        "android_client_info": {
+          "package_name": "com.valuecomvikaskumar.consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966137245946-tt99c9nlj41qboca3i2q809m4rmae3ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valuecomvikaskumar.consumer",
+            "certificate_hash": "87d2c6ecb425152bfc79f64abae544bb4cad1581"
+          }
+        },
+        {
+          "client_id": "966137245946-k8ev29ih8votd4aan6pi3rkjmdrm06h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkGN5skdcHybU2IMOkWbcV7_8Y9Ux7ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966137245946-k8ev29ih8votd4aan6pi3rkjmdrm06h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

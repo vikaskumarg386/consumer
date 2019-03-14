@@ -1,0 +1,2 @@
+# consumer
+In this app users can search their product and this app will list the product which is nearest to user location and also show other related items to the user. Here user can interact with multiple vendors and can do bargaining by sitting one place it will save users time. And since products are shown from near by places, user can self go to shop to take product delivery and it will reduce shipping charges as well.
